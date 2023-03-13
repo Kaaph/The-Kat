@@ -1,2 +1,1 @@
-# The-Kat
-Repositorio de prueba modulo 2
+Este es un proyecto de prueba de como clonar 
